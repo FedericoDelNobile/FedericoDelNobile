@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FedericoDelNobile
 - 👀 I’m interested in Data Science and Artificial Intelligence
-- 🌱 I’m currently studying at ESADE
-- 📫 How to reach me federico.delnobile@gmail.com / federico.delnobile@esade.edu
+- 👑 I’m currently working at KING
+- 📫 How to reach me federico.delnobile@gmail.com
 
 <!---
 FedericoDelNobile/FedericoDelNobile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
