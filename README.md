@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FedericoDelNobile
 - 👀 I’m interested in Data Science and Artificial Intelligence
-- 👑 I’m currently working at KING
+- 👑 I’m currently working at Revolut
 - 📫 How to reach me federico.delnobile@gmail.com
 
 <!---
